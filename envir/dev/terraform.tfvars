@@ -18,6 +18,11 @@ rgs = {
   }
 }
 
+  rg2 = {
+    resource_group_name = "rg-maharana"
+    location            = "West US 2"
+  }
+}
 snet = {
   snet1 = {
     snet_name            = "subnet_frontend"
